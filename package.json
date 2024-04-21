@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@bobyzgirlllnpm/id-nobis-pariatur",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/bobyzgirlllnpm/id-nobis-pariatur.git"
   },
   "dependencies": {
+    "@bobyzgirlllnpm/illo-architecto-dolorum": "^1.0.0",
+    "@bobyzgirlllnpm/nostrum-inventore-quasi": "^1.0.0",
+    "@drftgyhuji7npm/repellendus-eum-et-itaque": "^1.0.0"
   }
 }
